@@ -3,8 +3,8 @@ class TermagAgent < Formula
   homepage "https://github.com/yeutterg/termag-next"
   # The release script (apps/agent/scripts/release.sh) prints the new url +
   # sha256 after each `npm publish`. Paste them here, commit, push your tap.
-  url "https://registry.npmjs.org/termag-agent/-/termag-agent-0.1.5.tgz"
-  sha256 "cf23abb75d008902fa0658e8f199bf4c8a280ad837cc2b1bf3fd41549df01067"
+  url "https://registry.npmjs.org/termag-agent/-/termag-agent-0.1.6.tgz"
+  sha256 "ef39f7dad336266016dfe13dbc009ef4327d952cc1aa183e217842357e50f960"
   license "MIT"
 
   depends_on "node"
